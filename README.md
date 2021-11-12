@@ -19,8 +19,9 @@ npm run dev
 ```sh
 npm run build
 ```
-# Demo 1
+## Demo 1
 ![alt text](https://github.com/wroetoshaw/galaxy-generator/blob/main/static/1.png)
-# Demo 2
+
+## Demo 2
 ![alt text](https://github.com/wroetoshaw/galaxy-generator/blob/main/static/2.png)
 
