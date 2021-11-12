@@ -19,6 +19,8 @@ npm run dev
 ```sh
 npm run build
 ```
-# Demo 
-![alt text](https://github.com/[wroetoshaw]/[galaxy-generated]/blob//[main]/[static]/1.png?raw=true)
+# Demo 1
+![alt text](https://github.com/wroetoshaw/galaxy-generated/blob/main/1.png)
+# Demo 2
+![alt text](https://github.com/wroetoshaw/galaxy-generated/blob/main/2.png)
 
