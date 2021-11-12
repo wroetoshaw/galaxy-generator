@@ -20,4 +20,4 @@ npm run dev
 npm run build
 ```
 # Demo 
-![This is an image](../blob/galaxy-generated/static/1.png)
+![This is an image](../galaxy-generated/static/1.png)
