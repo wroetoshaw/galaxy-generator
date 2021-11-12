@@ -20,4 +20,5 @@ npm run dev
 npm run build
 ```
 # Demo 
-![This is an image](../galaxy-generated/static/1.png)
+![alt text](https://github.com/[wroetoshaw]/[galaxy-generated]/blob/[static]/1.png?raw=true)
+
